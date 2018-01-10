@@ -39,3 +39,8 @@ build/
 Gradlew
 Gradlew.bat
 settings.gradle
+.idea
+gradle/wrapper
+out/production/blog-epicodus
+.pairs
+build.gradle
